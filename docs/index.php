@@ -7,16 +7,19 @@
 		<h2>NeoBlocks</h2>
 		<ul>
 			<li>
-				<a href="index.php">Home</a>
+				<a href="#">Home</a>
 			</li>
 			<li>
-				<a href="games.php">Games</a>
+				<a href="games.html">Games</a>
 			</li>
 			<li>
-				<a href="catalog.php">Catalog</a>
+				<a href="catalog.html">Catalog</a>
 			</li>
 			<li>
-				<a href="people.php">People</a>
+				<a href="people.html">People</a>
+			</li>
+			<li>
+				<a href="about.html">About</a>
 			</li>
 		</ul>
 		<br>
