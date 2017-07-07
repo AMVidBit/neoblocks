@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>NeoBlocks</title>
+	</head>
+	<body>
+		<h2>NeoBlocks</h2>
+		<ul>
+			<li>
+				<a href="index.php">Home</a>
+			</li>
+			<li>
+				<a href="games.php">Games</a>
+			</li>
+			<li>
+				<a href="catalog.php">Catalog</a>
+			</li>
+			<li>
+				<a href="people.php">People</a>
+			</li>
+		</ul>
+		<br>
+			<p>This client is being developed from scratch in the C programming language, using a ROBLOX&trade; client from mid-2009, retrieved from <a href="http://www.clientsearch.tumblr.com">http://www.clientsearch.tumblr.com</a>.
+			<br>All assets belong to their respective owners, and ROBLOX can eat my smegma since we're reverse engineering their public shit but not actually using it lololol fuck you chumps</p>
+			<br>
+			<p>&copy;2017 WWGCI Studios
+			<br>July 7, 2017</p>
+		</body>
+	</html>
